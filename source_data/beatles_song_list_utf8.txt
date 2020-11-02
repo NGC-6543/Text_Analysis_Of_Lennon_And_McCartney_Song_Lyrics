@@ -1,0 +1,210 @@
+Album	Year	Song	Main composer	L	M	H	S	NumAuth	OtherAuth	Singer
+Please Please Me	1963	Love Me Do	McCartney	0	1	0	0	1	0	Lennon/McCartney
+Please Please Me	1963	P.S. I Love You	McCartney	0	1	0	0	1	0	McCartney
+Please Please Me	1963	Please Please Me	Lennon	1	0	0	0	1	0	Lennon/McCartney
+Please Please Me	1963	Ask Me Why	Lennon	1	0	0	0	1	0	Lennon
+Please Please Me	1963	There´s a Place	Lennon	1	0	0	0	1	0	Lennon
+Please Please Me	1963	I Saw Her Standing There	McCartney	0	1	0	0	1	0	McCartney
+Please Please Me	1963	Do You Want to Know a Secret	Lennon	1	0	0	0	1	0	Harrison
+Please Please Me	1963	Misery	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Please Please Me	1963	A Taste of Honey	Scott/Marlow	0	0	0	0	0	1	McCartney
+Please Please Me	1963	Anna (Go to Him)	Alexander	0	0	0	0	0	1	Lennon
+Please Please Me	1963	Boys	Dixon/Farrell	0	0	0	0	0	1	Starr
+Please Please Me	1963	Chains	Goffin/King	0	0	0	0	0	1	Harrison
+Please Please Me	1963	Baby It´s You	David/Williams/Bacharach	0	0	0	0	0	1	Lennon
+Please Please Me	1963	Twist and Shout	Medley/Russel	0	0	0	0	0	1	Lennon
+With The Beatles	1963	Hold Me Tight	McCartney	0	1	0	0	1	0	McCartney
+With The Beatles	1963	It Won´t Be Long	Lennon	1	0	0	0	1	0	Lennon
+With The Beatles	1963	All My Loving	McCartney	0	1	0	0	1	0	McCartney
+With The Beatles	1963	I Wanna Be Your Man	Lennon/McCartney	1	1	0	0	2	0	Starr
+With The Beatles	1963	Little Child	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+With The Beatles	1963	All I´ve Got to Do	Lennon	1	0	0	0	1	0	Lennon
+With The Beatles	1963	Not a Second Time	Lennon	1	0	0	0	1	0	Lennon
+With The Beatles	1963	Don´t Bother Me	Harrison	0	0	1	0	1	0	Harrison
+With The Beatles	1963	Roll Over Beethoven	Berry	0	0	0	0	0	1	Harrison
+With The Beatles	1963	You Really Got a Hold on Me 	Robinson	0	0	0	0	0	1	Lennon/Harrison
+With The Beatles	1963	Money (That´s What I Want)	Bradford/Gordy	0	0	0	0	0	1	Lennon
+With The Beatles	1963	Devil in Her Heart	Drapkin	0	0	0	0	0	1	Harrison
+With The Beatles	1963	Till There Was You	Wilson	0	0	0	0	0	1	McCartney
+With The Beatles	1963	Please Mr Postman	Holland/Bateman/Garrett/Dobbins/Gorman	0	0	0	0	0	1	Lennon
+Long Tall Sally	1964	Long Tall Sally	Johnson/Penniman/Blackwell	0	0	0	0	0	1	McCartney
+Long Tall Sally	1964	I Call Your Name	Lennon	1	0	0	0	1	0	Lennon
+Long Tall Sally	1964	Matchbox	Perkins	0	0	0	0	0	1	Starr
+Long Tall Sally	1964	Slow Down	Williams	0	0	0	0	0	1	Lennon
+A Hard Day's Night	1964	Can´t Buy Me Love	McCartney	0	1	0	0	1	0	McCartney
+A Hard Day's Night	1964	You Can´t Do That	Lennon	1	0	0	0	1	0	Lennon
+A Hard Day's Night	1964	And I Love Her	McCartney	0	1	0	0	1	0	McCartney
+A Hard Day's Night	1964	I Should Have Known Better	Lennon	1	0	0	0	1	0	Lennon
+A Hard Day's Night	1964	Tell Me Why 	Lennon	1	0	0	0	1	0	Lennon
+A Hard Day's Night	1964	If I fell	Lennon	1	0	0	0	1	0	Lennon/McCartney
+A Hard Day's Night	1964	I´m Happy Just to Dance With You	Lennon	1	0	0	0	1	0	Harrison
+A Hard Day's Night	1964	A Hard Day´s Night	Lennon	1	0	0	0	1	0	Lennon/McCartney
+A Hard Day's Night	1964	I´ll Cry Instead	Lennon	1	0	0	0	1	0	Lennon
+A Hard Day's Night	1964	I´ll Be Back	Lennon	1	0	0	0	1	0	Lennon
+A Hard Day's Night	1964	Any Time at All	Lennon	1	0	0	0	1	0	Lennon
+A Hard Day's Night	1964	Things We Said Today	McCartney	0	1	0	0	1	0	McCartney
+A Hard Day's Night	1964	When I Get Home	Lennon	1	0	0	0	1	0	Lennon
+Beatles For Sale	1964	Baby´s in Black	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Beatles For Sale	1964	I´m a Loser	Lennon	1	0	0	0	1	0	Lennon
+Beatles For Sale	1964	Every Little Thing	McCartney	0	1	0	0	1	0	Lennon
+Beatles For Sale	1964	I Don´t Want to Spoil the Party	Lennon	1	0	0	0	1	0	Lennon/Harrison
+Beatles For Sale	1964	What You´re Doing	McCartney	0	1	0	0	1	0	McCartney
+Beatles For Sale	1964	No Replay	Lennon	1	0	0	0	1	0	Lennon
+Beatles For Sale	1964	Eight Days a Week	McCartney	0	1	0	0	1	0	Lennon/McCartney
+Beatles For Sale	1964	I´ll Follow the Sun	McCartney	0	1	0	0	1	0	McCartney
+Beatles For Sale	1964	Mr Moonlight	Johnson	0	0	0	0	0	1	Lennon
+Beatles For Sale	1964	Kansas City	Leiber/Stoller/Penniman	0	0	0	0	0	1	McCartney
+Beatles For Sale	1964	Hey, Hey, Hey, Hey	Leiber/Stoller/Penniman	0	0	0	0	0	1	McCartney
+Beatles For Sale	1964	Everybody´s Trying to Be My Baby	Perkins	0	0	0	0	0	1	Harrison
+Beatles For Sale	1964	Rock and Roll Music	Berry	0	0	0	0	0	1	Lennon
+Beatles For Sale	1964	Words of Love	Holly	0	0	0	0	0	1	Lennon/McCartney
+Beatles For Sale	1964	Honey Don´t	Perkins	0	0	0	0	0	1	Starr
+Help!	1965	Ticket to Ride	Lennon	1	0	0	0	1	0	Lennon
+Help!	1965	Another Girl	McCartney	0	1	0	0	1	0	McCartney
+Help!	1965	I Need You	Harrison	0	0	1	0	1	0	Harrison
+Help!	1965	The Night Before	McCartney	0	1	0	0	1	0	McCartney
+Help!	1965	You Like Me Too Much	Harrison	0	0	1	0	1	0	Harrison
+Help!	1965	You´ve Got to Hide Your Love Away	Lennon	1	0	0	0	1	0	Lennon
+Help!	1965	Tell Me What You See	McCartney	0	1	0	0	1	0	McCartney
+Help!	1965	You´re Going to Lose That Girl	Lennon	1	0	0	0	1	0	Lennon
+Help!	1965	Help!	Lennon	1	0	0	0	1	0	Lennon
+Help!	1965	I´ve Just Seen a Face	McCartney	0	1	0	0	1	0	McCartney
+Help!	1965	Yesterday 	McCartney	0	1	0	0	1	0	McCartney
+Help!	1965	It´s Only Love	Lennon	1	0	0	0	1	0	Lennon
+Help!	1965	Dizzy Miss Lizzy	Williams	0	0	0	0	0	1	Lennon
+Help!	1965	Act Naturally	Morrison/Russel	0	0	0	0	0	1	Starr
+Rubber Soul	1965	Wait	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Rubber Soul	1965	Run for Your Life	Lennon	1	0	0	0	1	0	Lennon
+Rubber Soul	1965	Norwegian Wood (This Bird Has Flown)	Lennon	1	0	0	0	1	0	Lennon
+Rubber Soul	1965	Drive My Car	McCartney	0	1	0	0	1	0	Lennon/McCartney
+Rubber Soul	1965	In My Life	Lennon/McCartney	1	1	0	0	2	0	Lennon
+Rubber Soul	1965	Nowhere Man	Lennon	1	0	0	0	1	0	Lennon
+Rubber Soul	1965	I´m Looking Through You	McCartney	0	1	0	0	1	0	McCartney
+Rubber Soul	1965	Michelle	McCartney	0	1	0	0	1	0	McCartney
+Rubber Soul	1965	What Goes On	Lennon/McCartney	1	1	0	0	2	0	Starr
+Rubber Soul	1965	Think for Yourself	Harrison	0	0	1	0	1	0	Harrison
+Rubber Soul	1965	The Word	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Rubber Soul	1965	You Won´t See Me	McCartney	0	1	0	0	1	0	McCartney
+Rubber Soul	1965	Girl	Lennon	1	0	0	0	1	0	Lennon
+Revolver	1966	Tomorrow Never Knows	Lennon	1	0	0	0	1	0	Lennon
+Revolver	1966	Got to Get You Into My Life	McCartney	0	1	0	0	1	0	McCartney
+Revolver	1966	Love You to	Harrison	0	0	1	0	1	0	Harrison
+Revolver	1966	Doctor Robert	Lennon	1	0	0	0	1	0	Lennon
+Revolver	1966	And Your Bird Can Sing	Lennon	1	0	0	0	1	0	Lennon
+Revolver	1966	Taxman	Harrison	0	0	1	0	1	0	Harrison
+Revolver	1966	I´m Only Sleeping	Lennon	1	0	0	0	1	0	Lennon
+Revolver	1966	Eleanor Rigby	McCartney	0	1	0	0	1	0	McCartney
+Revolver	1966	For No One	McCartney	0	1	0	0	1	0	McCartney
+Revolver	1966	I Want to Tell You	Harrison	0	0	1	0	1	0	Harrison
+Revolver	1966	Good Day Sunshine 	McCartney	0	1	0	0	1	0	McCartney
+Revolver	1966	Here, There and Everywhere	McCartney	0	1	0	0	1	0	McCartney
+Revolver	1966	She Said She Said	Lennon	1	0	0	0	1	0	Lennon
+Sgt. Pepper's Lonely Hearts Club Band	1967	When I´m Sixty-Four	McCartney	0	1	0	0	1	0	McCartney
+Sgt. Pepper's Lonely Hearts Club Band	1967	A Day in the Life	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Sgt. Pepper's Lonely Hearts Club Band	1967	Sgt. Pepper´s Lonely Hearts Club Band	McCartney	0	1	0	0	1	0	McCartney
+Sgt. Pepper's Lonely Hearts Club Band	1967	Good Morning Good Morning	Lennon	1	0	0	0	1	0	Lennon
+Sgt. Pepper's Lonely Hearts Club Band	1967	Fixing a Hole	McCartney	0	1	0	0	1	0	McCartney
+Sgt. Pepper's Lonely Hearts Club Band	1967	Being For the Benefit of Mr. Kite	Lennon	1	0	0	0	1	0	Lennon
+Sgt. Pepper's Lonely Hearts Club Band	1967	Lovely Rita	McCartney	0	1	0	0	1	0	McCartney
+Sgt. Pepper's Lonely Hearts Club Band	1967	Lucy in the Sky with Diamonds	Lennon	1	0	0	0	1	0	Lennon
+Sgt. Pepper's Lonely Hearts Club Band	1967	Getting Better	McCartney	0	1	0	0	1	0	McCartney
+Sgt. Pepper's Lonely Hearts Club Band	1967	Within You Without You	Harrison	0	0	1	0	1	0	Harrison
+Sgt. Pepper's Lonely Hearts Club Band	1967	She´s Leaving Home	McCartney	0	1	0	0	1	0	McCartney
+Sgt. Pepper's Lonely Hearts Club Band	1967	With a Little Help From My Friends	McCartney	0	1	0	0	1	0	Starr
+Sgt. Pepper's Lonely Hearts Club Band	1967	Sgt. Pepper´s Lonely Hearts Club Band (Reprise)	McCartney	0	1	0	0	1	0	Lennon/McCartney/ 
+Magical Mystery Tour	1967	Magical Mystery Tour	McCartney	0	1	0	0	1	0	McCartney
+Magical Mystery Tour	1967	Your Mother Should Know	McCartney	0	1	0	0	1	0	McCartney
+Magical Mystery Tour	1967	Blue Jay Way	Harrison	0	0	1	0	1	0	Harrison
+Magical Mystery Tour	1967	Flying	Harrison/Lennon/McCartney/Starkey	1	1	1	1	4	0	Harrison/Lennon/McCartney/Starr
+Magical Mystery Tour	1967	The Fool on the Hill	McCartney	0	1	0	0	1	0	McCartney
+Magical Mystery Tour	1967	I Am the Walrus	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	Revolution 1	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	Don´t Pass Me By	Starkey	0	0	0	1	1	0	Starr
+The Beatles	1968	Revolution 9	Lennon	1	0	0	0	1	0	"""Instrumental"""
+The Beatles	1968	Blackbird	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Everybody´s Got Something to Hide Except Me and My Monkey	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	Good Night	Lennon	1	0	0	0	1	0	Starr
+The Beatles	1968	Ob-la-di, Ob-la-da	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Cry Baby Cry	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	Helter Skelter	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Sexy Sadie	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	While My Guitar Gently Weeps	Harrison	0	0	1	0	1	0	Harrison
+The Beatles	1968	Mother Nature´s Son	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Yer Blues	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	Rocky Raccoon	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Wild Honey Pie	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Back in the USSR	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Dear Prudence	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	Glass Onion	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	I Will	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Birthday	McCartney	0	1	0	0	1	0	Lennon/McCartney
+The Beatles	1968	Piggies	Harrison	0	0	1	0	1	0	Harrison
+The Beatles	1968	Happiness is a Warm Gun	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	Honey Pie	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Savoy Truffle	Harrison	0	0	1	0	1	0	Harrison
+The Beatles	1968	Martha My Dear	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Long Long Long	Harrison	0	0	1	0	1	0	Harrison
+The Beatles	1968	I´m So Tired	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	The Continuing Story of Bungalow Bill	Lennon	1	0	0	0	1	0	Lennon
+The Beatles	1968	Why Don´t We Do It in the Road?	McCartney	0	1	0	0	1	0	McCartney
+The Beatles	1968	Julia	Lennon	1	0	0	0	1	0	Lennon
+Yellow Submarine	1969	Yellow Submarine	McCartney	0	1	0	0	1	0	Starr
+Yellow Submarine	1969	Only a Nothern Song	Harrison	0	0	1	0	1	0	Harrison
+Yellow Submarine	1969	All Together Now	McCartney	0	1	0	0	1	0	McCartney
+Yellow Submarine	1969	It´s All Too Much	Harrison	0	0	1	0	1	0	Harrison
+Yellow Submarine	1969	All You Need is Love	Lennon	1	0	0	0	1	0	Lennon
+Yellow Submarine	1969	Hey Bulldog	Lennon/McCartney	1	1	0	0	2	0	Lennon
+Abbey Road	1969	I Want You (She´s So Heavy)	Lennon	1	0	0	0	1	0	Lennon
+Abbey Road	1969	Something	Harrison	0	0	1	0	1	0	Harrison
+Abbey Road	1969	Oh! Darling	McCartney	0	1	0	0	1	0	McCartney
+Abbey Road	1969	Octopus´s Garden	Starkey	0	0	0	1	1	0	Starr
+Abbey Road	1969	You Never Give Me Your Money	McCartney	0	1	0	0	1	0	McCartney
+Abbey Road	1969	Her Majesty	McCartney	0	1	0	0	1	0	McCartney
+Abbey Road	1969	Golden Slumbers	McCartney	0	1	0	0	1	0	McCartney
+Abbey Road	1969	Carry That Weight	McCartney	0	1	0	0	1	0	McCartney
+Abbey Road	1969	Here Comes the Sun	Harrison	0	0	1	0	1	0	Harrison
+Abbey Road	1969	Maxwell´s Silver Hammer	McCartney	0	1	0	0	1	0	McCartney
+Abbey Road	1969	Come Together	Lennon	1	0	0	0	1	0	Lennon
+Abbey Road	1969	The End	McCartney	0	1	0	0	1	0	McCartney
+Abbey Road	1969	Sun King	Lennon	1	0	0	0	1	0	Lennon
+Abbey Road	1969	Mean Mr Mustard	Lennon	1	0	0	0	1	0	Lennon
+Abbey Road	1969	Polythene Pam	Lennon	1	0	0	0	1	0	Lennon
+Abbey Road	1969	She Came in Through the Bathroom Window	McCartney	0	1	0	0	1	0	McCartney
+Abbey Road	1969	Because	Lennon	1	0	0	0	1	0	Lennon/McCartney/Harrison
+Let It Be	1970	Across the Universe	Lennon	1	0	0	0	1	0	Lennon
+Let It Be	1970	Dig a Ponny	Lennon	1	0	0	0	1	0	Lennon
+Let It Be	1970	I´ve Got a Feeling	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Let It Be	1970	Get Back	McCartney	0	1	0	0	1	0	McCartney
+Let It Be	1970	Two of Us	McCartney	0	1	0	0	1	0	Lennon/McCartney
+Let It Be	1970	Maggie Mae	Trad. arr.	0	0	0	0	0	1	Lennon/McCartney
+Let It Be	1970	Dig It	Lennon	1	0	0	0	1	0	Lennon
+Let It Be	1970	For You Blue	Harrison	0	0	1	0	1	0	Harrison
+Let It Be	1970	Let It Be	McCartney	0	1	0	0	1	0	McCartney
+Let It Be	1970	The Long and Winding Road	McCartney	0	1	0	0	1	0	McCartney
+Let It Be	1970	One After 909	Lennon	1	0	0	0	1	0	Lennon/McCartney
+Let It Be	1970	I Me Mine	Harrison	0	0	1	0	1	0	Harrison
+Songs not released on LP	1963	From Me to You	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Songs not released on LP	1963	Thank You Girl	Lennon/McCartney	1	1	0	0	2	0	Lennon
+Songs not released on LP	1963	She Loves You	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Songs not released on LP	1963	I´ll Get You	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Songs not released on LP	1963	I Want to Hold Your Hand	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Songs not released on LP	1963	This Boy	Lennon	1	0	0	0	1	0	Lennon/McCartney/Harrison
+Songs not released on LP	1964	She´s a Woman	McCartney	0	1	0	0	1	0	McCartney
+Songs not released on LP	1964	I Feel Fine	Lennon	1	0	0	0	1	0	Lennon
+Songs not released on LP	1965	Yes it is	Lennon	1	0	0	0	1	0	Lennon
+Songs not released on LP	1965	I´m Down	McCartney	0	1	0	0	1	0	McCartney
+Songs not released on LP	1965	Day Tripper	Lennon	1	0	0	0	1	0	Lennon/McCartney
+Songs not released on LP	1965	We Can Work It Out	Lennon/McCartney	1	1	0	0	2	0	McCartney
+Songs not released on LP	1966	Paperback Writer	McCartney	0	1	0	0	1	0	McCartney
+Songs not released on LP	1966	Rain	Lennon	1	0	0	0	1	0	Lennon
+Songs not released on LP	1967	Strawberry Fields Forever	Lennon	1	0	0	0	1	0	Lennon
+Songs not released on LP	1967	Penny Lane	McCartney	0	1	0	0	1	0	McCartney
+Songs not released on LP	1967	Baby, You´re a Rich Man	Lennon/McCartney	1	1	0	0	2	0	Lennon/McCartney
+Songs not released on LP	1967	Hello, Goodbye	McCartney	0	1	0	0	1	0	McCartney
+Songs not released on LP	1968	The Inner Light	Harrison	0	0	1	0	1	0	Harrison
+Songs not released on LP	1968	Lady Madonna	McCartney	0	1	0	0	1	0	McCartney
+Songs not released on LP	1968	Hey Jude	McCartney	0	1	0	0	1	0	McCartney
+Songs not released on LP	1969	Don´t Let Me Down	Lennon	1	0	0	0	1	0	Lennon
+Songs not released on LP	1969	The Ballad of John and Yoko	Lennon	1	0	0	0	1	0	Lennon
+Songs not released on LP	1969	Old Brown Shoe	Harrison	0	0	1	0	1	0	Harrison
+Songs not released on LP	1970	You Know My Name (Look up the Number)	Lennon	1	0	0	0	1	0	Lennon/McCartney/Starr
